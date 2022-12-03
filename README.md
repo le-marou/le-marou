@@ -1,8 +1,8 @@
-# # 🏄‍♂️ Le Marou
+# #                                                     🏄‍♂️ Le Marou
 
 **`Digital Craftsman (EthicalHacker/Développeur/Createur de contenu)`**
-<details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+
+ <summary><h3>👨‍💻 Qui je suis ??? </h3></summary>
    Moi c'est Oumar, je suis passionné par la cybersécurité, le développement d'applications et les nouvelles technologies.j'ai eu le privilège de développer mes compétences au sein de L'agence de technologies de l'information et de la communication, Orange digital Centre Cameroun et aussi MenFahs dans le cadre de mes projets de fin d'études et professionnelles. Actuellement étudiant en Master 1 en cybersecurité,intelligence artificielle &big data je souhaite à terme devenir Analyste SOC
 
 ♡Autodidacte ♧ Rigoureux ♤travail en équipe
@@ -76,6 +76,7 @@ une page sur Facebook et une chaîne youtube où je partage mes connaissances en
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=le-marou&theme=gruvbox&border_radius=4.5) -->
 
 #
+<details>
 Je suis un passioné de la technologie indépendant et un créateur de contenu qui construit ma version du monde numérique une étape à la fois.tout le contenu vidéo est construit de l'idéation et de la planification, jusqu'à la finalisation du contenu avec des touches artistiques. Je publie ce contenu sur ma chaîne YouTube "[lemarou639] plus de  100 subscribers.
 
 [Page_Facbook]: https://www.facebook.com/profile.php?id=100063481061853
