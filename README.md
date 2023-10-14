@@ -44,7 +44,7 @@ N'hésitez pas à explorer mes projets GitHub et à me contacter pour toute coll
       <a href="https://www.youtube.com/@lemarou639/videos">
          <img alt="youtube subscribers" title=" Abonne toi a ma chaine YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCxlWRWlrKmdkEpD64q6pxRA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@lemarou639/videos">
-         <img alt="youtube vues" title="YouTube vues" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+         <img alt="youtube vues" title="YouTube vues" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCxlWRWlrKmdkEpD64q6pxRA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/le-marou?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/le-marou?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/le-marou?tab=repositories&sort=stargazers">
