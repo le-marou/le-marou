@@ -3,23 +3,41 @@
 **`Digital Craftsman (EthicalHacker/Développeur/Createur de contenu)`**
 
  <summary><h3>👨‍💻 Qui je suis ??? </h3></summary>
-   Moi c'est Oumar, je suis passionné par la cybersécurité, le développement d'applications et les nouvelles technologies.j'ai eu le privilège de développer mes compétences au sein de L'agence de technologies de l'information et de la communication, Orange digital Centre Cameroun et aussi MenFahs dans le cadre de mes projets de fin d'études et professionnelles. Actuellement étudiant en Master 1 en cybersecurité,intelligence artificielle &big data je souhaite à terme devenir Analyste SOC
+   
+# Bonjour, je suis Oumar 👋
 
-♡Autodidacte ♧ Rigoureux ♤travail en équipe
+Je suis un passionné de cybersécurité, de développement d'applications et de nouvelles technologies. Au cours de ma carrière, j'ai eu le privilège de développer mes compétences au sein de l'Agence de Technologies de l'Information et de la Communication d'Orange Digital Centre Cameroun ainsi que chez MenFahs, où j'ai participé à des projets de fin d'études et professionnels.
 
-je souhaite intervenir à l'occasion des différentes étape d'un projet en Cybersécurité :
-⚡ Red Team ;
-⚡ Test d'intrusion ; 
-⚡ Blue Team ;
-⚡ SOC ;
-⚡ CTF ;
-⚡ Analyse Malware et OSINT.
-Grâce à mes différentes expériences, j'ai pu développer ces dernières années des compétences en terme de :
-✔ Développement Web ;
-✔ Test intrusion Web et Active Directory ;
-✔ Installation équipement réseau.
- j'ai également créé :
-une page sur Facebook et une chaîne youtube où je partage mes connaissances en Ethical Hacking et mes passions en informatiques.
+## 📚 Formation
+- Actuellement étudiant en Master 1 en cybersécurité, intelligence artificielle et big data.
+- Mon objectif : Devenir Analyste SOC.
+
+## 🧰 Compétences
+- ✔ Développement Web
+- ✔ Test intrusion Web et Active Directory
+- ✔ Installation équipement réseau
+
+## 🛠️ Projets en Cybersécurité
+Je suis passionné par différentes étapes d'un projet en cybersécurité :
+- ⚡ Red Team
+- ⚡ Test d'intrusion
+- ⚡ Blue Team
+- ⚡ SOC
+- ⚡ CTF
+- ⚡ Analyse Malware et OSINT
+
+## 👤 Traits Personnels
+- ♡ Autodidacte
+- ♧ Rigoureux
+- ♤ Travail en équipe
+
+## 🔗 Liens
+- Explorez mes projets GitHub sur [mon profil GitHub](https://github.com/votre-pseudo)
+- Suivez-moi sur [Facebook](https://www.facebook.com/votre-page) pour en savoir plus sur mes connaissances en Ethical Hacking.
+- Consultez ma chaîne [YouTube](https://www.youtube.com/votre-chaîne) où je partage mes passions en informatique.
+
+N'hésitez pas à explorer mes projets GitHub et à me contacter pour toute collaboration ou discussion passionnante sur la cybersécurité. 🚀
+
 
    <p align="left">
       <a href="https://www.youtube.com/@lemarou639/videos">
