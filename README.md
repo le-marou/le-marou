@@ -9,11 +9,11 @@
 Je suis un passionné de cybersécurité, de développement d'applications et de nouvelles technologies. Au cours de ma carrière, j'ai eu le privilège de développer mes compétences au sein de l'Agence de Technologies de l'Information et de la Communication d'Orange Digital Centre Cameroun ainsi que chez MenFahs, où j'ai participé à des projets de fin d'études et professionnels.
 
 ## 📚 Formation
-- Actuellement étudiant en Master 1 en cybersécurité, intelligence artificielle et big data.
+- Actuellement étudiant en Master 2 en cybersécurité et Blockchain.
 - Mon objectif : Devenir Analyste SOC.
 
 ## 🧰 Compétences
-- ✔ Développement Web
+- ✔ Développement Web (django)
 - ✔ Test intrusion Web et Active Directory
 - ✔ Installation équipement réseau
 
@@ -25,6 +25,7 @@ Je suis passionné par différentes étapes d'un projet en cybersécurité :
 - ⚡ SOC
 - ⚡ CTF
 - ⚡ Analyse Malware et OSINT
+  
 
 ## 👤 Traits Personnels
 - ♡ Autodidacte
@@ -32,16 +33,16 @@ Je suis passionné par différentes étapes d'un projet en cybersécurité :
 - ♤ Travail en équipe
 
 ## 🔗 Liens
-- Explorez mes projets GitHub sur [mon profil GitHub](https://github.com/votre-pseudo)
+- Explorez mon profil Linkedin sur [ profil Linkedin](https://www.linkedin.com/in/oumar-ali-mahamat-cybersecurity/)
 - Suivez-moi sur [Facebook](https://www.facebook.com/votre-page) pour en savoir plus sur mes connaissances en Ethical Hacking.
-- Consultez ma chaîne [YouTube](https://www.youtube.com/votre-chaîne) où je partage mes passions en informatique.
+- Consultez ma chaîne [YouTube](https://www.youtube.com/@lemarou639/videos) où je partage mes passions en informatique.
 
 N'hésitez pas à explorer mes projets GitHub et à me contacter pour toute collaboration ou discussion passionnante sur la cybersécurité. 🚀
 
 
    <p align="left">
       <a href="https://www.youtube.com/@lemarou639/videos">
-         <img alt="youtube subscribers" title=" Abonne toi a ma chaine YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         <img alt="youtube subscribers" title=" Abonne toi a ma chaine YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@lemarou639/videos">
          <img alt="youtube vues" title="YouTube vues" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/le-marou?tab=followers">
