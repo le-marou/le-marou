@@ -34,7 +34,7 @@ Je suis passionné par différentes étapes d'un projet en cybersécurité :
 
 ## 🔗 Liens
 - Explorez mon profil Linkedin sur [ profil Linkedin](https://www.linkedin.com/in/oumar-ali-mahamat-cybersecurity/)
-- Suivez-moi sur [Facebook](https://www.facebook.com/votre-page) pour en savoir plus sur mes connaissances en Ethical Hacking.
+- Suivez-moi sur [Facebook](https://www.facebook.com/profile.php?id=100063481061853) pour en savoir plus sur mes connaissances en Ethical Hacking.
 - Consultez ma chaîne [YouTube](https://www.youtube.com/@lemarou639/videos) où je partage mes passions en informatique.
 
 N'hésitez pas à explorer mes projets GitHub et à me contacter pour toute collaboration ou discussion passionnante sur la cybersécurité. 🚀
