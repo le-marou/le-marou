@@ -1,101 +1,83 @@
-# #                                                     🏄‍♂️ Le Marou
+<div align="center">
 
-**`Digital Craftsman (EthicalHacker/Développeur/Createur de contenu)`**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=33CC33&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+Oumar+(Le+Marou);Future+SOC+Analyst+%F0%9F%9B%A1%EF%B8%8F;Cybersecurity+Enthusiast;Content+Creator+%F0%9F%93%B9" alt="Typing SVG" />
 
- <summary><h3>👨‍💻 Qui je suis ??? </h3></summary>
-   
-# Bonjour, je suis Oumar 👋
+<br/>
 
-Je suis un passionné de cybersécurité, de développement d'applications et de nouvelles technologies. Au cours de ma carrière, j'ai eu le privilège de développer mes compétences au sein de l'Agence de Technologies de l'Information et de la Communication d'Orange Digital Centre Cameroun ainsi que chez MenFahs, où j'ai participé à des projets de fin d'études et professionnels.
+<a href="https://www.linkedin.com/in/oumar-ali-mahamat-cybersecurity/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@lemarou639/videos">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100063481061853">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="mailto:tonemail@exemple.com">
+  <img src="https://img.shields.io/badge/Contact-GMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-## 📚 Formation
-- Actuellement étudiant en Master 2 en cybersécurité et Blockchain.
-- Mon objectif : Devenir Analyste SOC.
-
-## 🧰 Compétences
-- ✔ Développement Web (django)
-- ✔ Test intrusion Web et Active Directory
-- ✔ Installation équipement réseau
-
-## 🛠️ Projets en Cybersécurité
-Je suis passionné par différentes étapes d'un projet en cybersécurité :
-- ⚡ Red Team
-- ⚡ Test d'intrusion
-- ⚡ Blue Team
-- ⚡ SOC
-- ⚡ CTF
-- ⚡ Analyse Malware et OSINT
-  
-
-## 👤 Traits Personnels
-- ♡ Autodidacte
-- ♧ Rigoureux
-- ♤ Travail en équipe
-
-## 🔗 Liens
-- Explorez mon profil Linkedin sur [ profil Linkedin](https://www.linkedin.com/in/oumar-ali-mahamat-cybersecurity/)
-- Suivez-moi sur [Facebook](https://www.facebook.com/profile.php?id=100063481061853) pour en savoir plus sur mes connaissances en Ethical Hacking.
-- Consultez ma chaîne [YouTube](https://www.youtube.com/@lemarou639/videos) où je partage mes passions en informatique.
-
-N'hésitez pas à explorer mes projets GitHub et à me contacter pour toute collaboration ou discussion passionnante sur la cybersécurité. 🚀
-
-
-   <p align="left">
-      <a href="https://www.youtube.com/@lemarou639/videos">
-         <img alt="youtube subscribers" title=" Abonne toi a ma chaine YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCxlWRWlrKmdkEpD64q6pxRA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@lemarou639/videos">
-         <img alt="youtube vues" title="YouTube vues" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCxlWRWlrKmdkEpD64q6pxRA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/le-marou?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/le-marou?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/le-marou?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/le-marou?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+</div>
 
 ---
 
-### 🧰 Languages and Tools
+### 👨‍💻 _/var/log/about_me.txt_
 
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+> ⚠️ **Statut Actuel :** Master 2 Cybersécurité & Blockchain | 🎯 **Cible :** Analyste SOC
 
-#
+Passionné par la **Blue Team** et la **détection de menaces**, je construis mon expertise entre l'**Orange Digital Centre**, **MenFahs**, et mes projets personnels. Je ne me contente pas d'apprendre, je partage tout ce que je découvre sur ma chaîne YouTube pour démocratiser la cybersécurité.
 
-### 📺 Mes YouTube Videos
+* 🔭 **Projet en cours :** Automatisation de scripts de reconnaissance & Analyse de Malware.
+* ⚡ **Superpouvoir :** Transformer du café en scripts Python et en règles de Firewall.
+* 🐧 **OS Principal :** Je vis dans le terminal Linux.
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Sensibilisation contre du piratage de webcam par phishing](https://ytcards.demolab.com/?id=46LN42Ur9mE&title=Sensibilisation+contre+du+piratage+de+webcam+par+phishing&lang=en&timestamp=1656093010&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Sensibilisation contre du piratage de webcam par phishing")](https://www.youtube.com/watch?v=46LN42Ur9mE)
-[![Soutenance Bts en Gestion des systèmes d'informations](https://ytcards.demolab.com/?id=7gTNjSHiBVA&title=Soutenance+Bts+en+Gestion+des+syst%C3%A8mes+d%27informations&lang=en&timestamp=1654697106&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Soutenance Bts en Gestion des systèmes d'informations")](https://www.youtube.com/watch?v=7gTNjSHiBVA)
-[![Puissant  Dorks Google](https://ytcards.demolab.com/?id=FAPWvVnMR8w&title=Puissant++Dorks+Google&lang=en&timestamp=1654689082&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Puissant  Dorks Google")](https://www.youtube.com/watch?v=FAPWvVnMR8w)
-[![Turtle Design Python](https://ytcards.demolab.com/?id=Kz-85oKpH7Y&title=Turtle+Design+Python&lang=en&timestamp=1654688037&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Turtle Design Python")](https://www.youtube.com/watch?v=Kz-85oKpH7Y)
-[![Installation et configuration complètent de Windows serveur](https://ytcards.demolab.com/?id=F90-YKkOe4o&title=Installation+et+configuration+compl%C3%A8tent+de+Windows+serveur&lang=en&timestamp=1654687115&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Installation et configuration complètent de Windows serveur")](https://www.youtube.com/watch?v=F90-YKkOe4o)
-[![POURQUOI UNE NOUVELLE REGLE D'UTILISATION WHATSAPP ??? ET QUELLE MEILLEURE ALTERNATIVE A WHATSAPP ?](https://ytcards.demolab.com/?id=z6_0XKp0mGc&title=POURQUOI+UNE+NOUVELLE+REGLE+D%27UTILISATION+WHATSAPP+%3F%3F%3F+ET+QUELLE+MEILLEURE+ALTERNATIVE+A+WHATSAPP+%3F&lang=en&timestamp=1611704112&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "POURQUOI UNE NOUVELLE REGLE D'UTILISATION WHATSAPP ??? ET QUELLE MEILLEURE ALTERNATIVE A WHATSAPP ?")](https://www.youtube.com/watch?v=z6_0XKp0mGc)
-<!-- END YOUTUBE-CARDS -->
+---
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@lemarou639/videos)
+### 🛠️ _/bin/skills_toolbox_
 
-#
+<div align="center">
 
-### 📊 Stats
+| **🛡️ Blue Team & SOC (Défense)** | **⚔️ Red Team & Pentest (Attaque)** |
+|:---:|:---:|
+| ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) <br> ![Snort](https://img.shields.io/badge/Snort-CB2027?style=for-the-badge&logo=snort&logoColor=white) ![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=Burp-Suite&logoColor=white) <br> ![Metasploit](https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-blue?style=for-the-badge&logo=nmap&logoColor=white) |
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=le-marou&show_icons=true&theme=gruvbox)
+| **💻 Développement & Scripting** | **☁️ Infrastructure & OS** |
+|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) <br> ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Network](https://img.shields.io/badge/Network-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) |
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=le-marou&theme=gruvbox&border_radius=4.5) -->
+</div>
 
-#
-<details>
-Je suis un passioné de la technologie indépendant et un créateur de contenu qui construit ma version du monde numérique une étape à la fois.tout le contenu vidéo est construit de l'idéation et de la planification, jusqu'à la finalisation du contenu avec des touches artistiques. Je publie ce contenu sur ma chaîne YouTube "[lemarou639] plus de  100 subscribers.
+---
 
-[Page_Facbook]: https://www.facebook.com/profile.php?id=100063481061853
-[Youtube]: https://youtube.com/channel/UCxlWRWlrKmdkEpD64q6pxRA
-[Github]:https://github.com/le-marou
+### 📊 _/usr/bin/metrics_
 
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=le-marou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=le-marou&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages graph"  />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/le-marou/le-marou/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+</div>
+
+---
+
+### 📺 _/media/latest_videos_
+
+<div align="center">
+  <a href="https://www.youtube.com/@lemarou639/videos">
+    <img src="https://custom-icon-badges.demolab.com/badge/-S'abonner%20pour%20plus%20de%20hacking-red?style=for-the-badge&logo=video&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+    <p><i>"La sécurité n'est pas une fin en soi, mais un prérequis à toute liberté numérique."</i></p>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer"/>
+</div>
