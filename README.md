@@ -20,7 +20,7 @@
 
 ```typescript
 const oumar = {
-    location: "Cameroun 🇨🇲",
+    location: "TCHAD TD",
     currentFocus: "Master 2 Cybersécurité & Blockchain",
     dream_role: "SOC Analyst",
     passions: ["Red Teaming", "Blue Teaming", "Malware Analysis", "OSINT"],
